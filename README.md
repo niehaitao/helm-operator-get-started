@@ -1,4 +1,4 @@
-# Managing Helm releases the GitOps way
+# Managing Helm releases the GitOps way - Haitao
 
 **What is GitOps?**
 

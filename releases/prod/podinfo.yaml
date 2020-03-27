@@ -10,11 +10,11 @@ metadata:
 spec:
   releaseName: podinfo-prod
   chart:
-    git: git@github.com:niehaitao/helm-operator-get-started
+    git: https://github.com/niehaitao/helm-operator-get-started.git
     path: charts/podinfo
     ref: master
   values:
     image:
-      repository: stefanprodan/podinfo
+      repository: haitaonie/podinfo
       tag: 0.4.11
     replicaCount: 3
